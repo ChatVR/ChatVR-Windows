@@ -35,7 +35,7 @@ public class VRPlayerController : MonoBehaviour
 
     void Update()
     {
-
+        
         //Vector2 inp = OVRInput.Get(OVRInput.Axis2D.PrimaryThumbstick);
 
         //if (inp == Vector2.zero) return;
