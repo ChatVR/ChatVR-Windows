@@ -51,7 +51,6 @@ public class VRPlayerController : MonoBehaviour
         prevPlayerLoc = playerLoc;
         prevLeftHandLoc = leftHandLoc;
         prevRightHandLoc = rightHandLoc;
-        Debug.Log(handSpeed*100);
 
         if (handSpeed*100 > moveSens)
         {
